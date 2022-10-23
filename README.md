@@ -1,6 +1,3 @@
-###
-  
-<link rel="stylesheet" href="XYZ.css">
 
 ###
 
@@ -12,3 +9,5 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/be7450bc36126df5440b366e418ac111/tumblr_pualo47Y2E1wb4wgjo1_400.gif" width=100 height=100>
 </p>
+
+###
